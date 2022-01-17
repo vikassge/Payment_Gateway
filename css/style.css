@@ -1,0 +1,138 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.abc{
+	background-image: url("https://images.squarespace-cdn.com/content/v1/577eab6d03596e5318b18a43/1470762048671-U9CTIN8B5XYRZU3YZ1O2/hold+a+hand+change+a+life.jpg?format=1500w");
+}
+
+.div{
+    position: -webkit-sticky;
+}
+
+header {
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(image_tsf.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+
+}
+
+.main_txt h1 {
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 60px;
+}
+.main_txt  span {
+	color: #28a318;
+    font-weight: 700;
+}
+
+
+.navbar-brand {
+    font-family: 'Acme', sans-serif;
+
+}
+
+
+.main_txt p, .main_txt h4 {
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+}
+
+
+footer{
+    background-color: silver;
+    margin: 0;
+    margin-top: 0;
+}
+footer p{
+    color:rgba(0, 0, 0, 0.8);
+}
+
+.text-center{
+    font-size: small;
+}
+
+/* contact us css */
+body{
+    background: -webkit-linear-gradient(left, #659DBD);
+}
+.contact-form{
+    background:#8EE4AF ;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    width: 70%;
+}
+.contact-form .form-control{
+    border-radius:1rem;
+}
+.contact-image{
+    text-align: center;
+}
+.contact-image img{
+    border-radius: 6rem;
+    width: 11%;
+    margin-top: -3%;
+    transform: rotate(29deg);
+}
+.contact-form form{
+    padding: 14%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h3{
+    margin-bottom: 8%;
+    margin-top: -10%;
+    text-align: center;
+    color: #0062cc;
+}
+.contact-form .btnContact {
+    width: 50%;
+    border: none;
+    border-radius: 1rem;
+    padding: 1.5%;
+    background: #dc3545;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.btnContactSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    color: #fff;
+    background-color: #0062cc;
+    border: none;
+    cursor: pointer;
+}
+
+/* why css */
+
+.title {
+    color: yellow;
+		padding: 10px;
+    font-family: 'Girassol', cursive;
+    font-weight: 700;
+    background-color: teal;
+}
+
+.para{
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.para p{
+    font-family: 'Fjalla One', sans-serif;
+    font-weight: 900;
+}
+
+
+/* #0072f */
+/* #00c6f */
